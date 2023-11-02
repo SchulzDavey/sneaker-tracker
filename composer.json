@@ -1,0 +1,15 @@
+{
+  "name": "daves/sneaker-tracker",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Davey Schulz",
+      "email": "davey.schulz@hotmail.com"
+    }
+  ],
+  "require": {}
+}
